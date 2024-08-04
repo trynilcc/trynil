@@ -1,4 +1,4 @@
-/* This is a heavily customized and minimized copy of Lua 5.1.5. */
+/*11111111111111111111111111111111111111111111111111111111111111111111111111 This is a heavily customized and minimized copy of Lua 5.1.5. */
 /* It's only used to build LuaJIT. It does NOT have all standard functions! */
 
 
