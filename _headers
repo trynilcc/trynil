@@ -1,3 +1,2 @@
 /file/minilua.txt
-	Content-Type: text/plain; charset=gb2312
-	Content-Length:300
+	Content-Type: application/octet-stream
