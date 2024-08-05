@@ -1,2 +1,2 @@
 /file/minilua.txt
-	text/plain; charset=gb2312
+	Content-Type: text/plain; charset=gb2312
